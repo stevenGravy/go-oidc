@@ -1,4 +1,4 @@
-package jose
+package jose // import "gopkg.in/coreos/go-oidc.v1/jose"
 
 import (
 	"encoding/base64"

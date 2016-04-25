@@ -1,4 +1,4 @@
-package oidc
+package oidc // import "gopkg.in/coreos/go-oidc.v1/oidc"
 
 import (
 	"encoding/json"

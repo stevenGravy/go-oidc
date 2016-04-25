@@ -1,4 +1,4 @@
-package http
+package http // import "gopkg.in/coreos/go-oidc.v1/http"
 
 import (
 	"encoding/base64"

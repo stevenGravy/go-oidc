@@ -1,4 +1,4 @@
-package key
+package key // import "gopkg.in/coreos/go-oidc.v1/key"
 
 import (
 	"crypto/rand"

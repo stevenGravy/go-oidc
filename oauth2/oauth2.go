@@ -1,4 +1,4 @@
-package oauth2
+package oauth2 // import "gopkg.in/coreos/go-oidc.v1/oauth2"
 
 import (
 	"encoding/json"
